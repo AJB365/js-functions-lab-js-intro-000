@@ -1,4 +1,3 @@
-
 var happyHolidays =  function(){
   return "Happy holidays!";
 }
